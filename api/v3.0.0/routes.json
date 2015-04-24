@@ -3121,6 +3121,16 @@
             "params": {}
         },
 
+        "get-public-repos": {
+            "url": "/users/:user/repos",
+            "method": "GET",
+            "params": {
+                "$user": null,
+                "$page": null,
+                "$per_page": null
+            }
+        },
+
         "update": {
             "url": "/user",
             "method": "PATCH",
