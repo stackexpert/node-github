@@ -1,34 +1,39 @@
 {
-    "name" : "node-github",
-    "version" : "0.2.5",
-    "description" : "NodeJS wrapper for the GitHub API (Forked from https://www.npmjs.com/package/node-github)",
-    "author": "Ashwin <ak@stackexpert.com>",
-    "contributors": [
-        { "name": "Ashwin", "email": "ak@stackexpert.com" }
-    ],
-    "homepage": "https://github.com/stackexpert/node-github",
-    "repository" : {
-        "type" : "git",
-        "url" : "git://github.com/stackexpert/node-github.git"
-    },
-    "engine" : {
-        "node": ">=0.4.0"
-    },
-    "dependencies": {
-      "mime": "^1.2.11"
-    },
-    "devDependencies": {
-        "async": "^0.9.0",
-        "oauth": "~0.9.7",
-        "optimist": "~0.6.0",
-        "mocha": "~1.13.0"
-    },
-    "main" : ".",
-    "scripts": {
-        "test": "node ./test/all.js"
-    },
-    "licenses": [{
-        "type": "The MIT License",
-        "url": "http://www.opensource.org/licenses/mit-license.php"
-    }]
+  "name": "node-github",
+  "version": "0.2.6",
+  "description": "NodeJS wrapper for the GitHub API (Forked from https://www.npmjs.com/package/node-github)",
+  "author": "Ashwin <ak@stackexpert.com>",
+  "contributors": [
+    {
+      "name": "Ashwin",
+      "email": "ak@stackexpert.com"
+    }
+  ],
+  "homepage": "https://github.com/stackexpert/node-github",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stackexpert/node-github.git"
+  },
+  "engine": {
+    "node": ">=0.4.0"
+  },
+  "dependencies": {
+    "mime": "^1.2.11"
+  },
+  "devDependencies": {
+    "async": "^0.9.0",
+    "oauth": "~0.9.7",
+    "optimist": "~0.6.0",
+    "mocha": "~1.13.0"
+  },
+  "main": ".",
+  "scripts": {
+    "test": "node ./test/all.js"
+  },
+  "licenses": [
+    {
+      "type": "The MIT License",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ]
 }
