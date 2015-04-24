@@ -1,6 +1,6 @@
 {
   "name": "ashking-node-github",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "NodeJS wrapper for the GitHub API (Forked from https://www.npmjs.com/package/node-github)",
   "author": "Ashwin <ak@stackexpert.com>",
   "contributors": [
