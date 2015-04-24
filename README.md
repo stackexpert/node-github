@@ -6,13 +6,13 @@ A Node.JS module, which provides an object oriented wrapper for the GitHub v3 AP
 
   Install with the Node.JS package manager [npm](http://npmjs.org/) ![NPM version](https://badge.fury.io/js/github.svg):
 
-      $ npm install github
+      $ npm install node-github
 
 or
 
   Install via git clone:
 
-      $ git clone git://github.com/mikedeboer/node-github.git
+      $ git clone git://github.com/stackexpert/node-github.git
       $ cd node-github
       $ npm install
 
