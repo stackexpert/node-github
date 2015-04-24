@@ -6,3 +6,4 @@ node_modules
 .c9revisions
 /nbproject/private/
 .idea
+npm-debug.log
